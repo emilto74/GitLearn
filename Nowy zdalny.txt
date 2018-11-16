@@ -1,3 +1,3 @@
 Dane nowe w pliku zdalnym
-Dodaliśmy jeszcze jeden wiersz z danymi
+
 Dodany trzeci wiersz i usunięty drugi
