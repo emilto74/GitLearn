@@ -1,3 +1,5 @@
-Dane nowe w pliku zdalnym
+﻿Dane nowe w pliku zdalnym
 
 Dodany trzeci wiersz i usunięty drugi
+
+Powinniśmy jednak dodac drugii usunąć trzeci?
