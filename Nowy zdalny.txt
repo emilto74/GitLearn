@@ -1,2 +1,3 @@
 ﻿Dane nowe w pliku zdalnym
 Powinniśmy jednak dodac drugii usunąć trzeci?
+Dodany trzeci woersz ponownie
